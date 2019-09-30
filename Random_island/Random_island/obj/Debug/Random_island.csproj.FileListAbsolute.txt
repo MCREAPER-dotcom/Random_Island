@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Random_island\Random_island\bin\Debug\Random_island.exe.config
+C:\Users\ASUS\Desktop\Random_island\Random_island\bin\Debug\Random_island.exe
+C:\Users\ASUS\Desktop\Random_island\Random_island\bin\Debug\Random_island.pdb
+C:\Users\ASUS\Desktop\Random_island\Random_island\obj\Debug\Random_island.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Random_island\Random_island\obj\Debug\Random_island.Start_window.resources
+C:\Users\ASUS\Desktop\Random_island\Random_island\obj\Debug\Random_island.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Random_island\Random_island\obj\Debug\Random_island.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Random_island\Random_island\obj\Debug\Random_island.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Random_island\Random_island\obj\Debug\Random_island.exe
+C:\Users\ASUS\Desktop\Random_island\Random_island\obj\Debug\Random_island.pdb
